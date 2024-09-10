@@ -10,5 +10,6 @@ public class Main {
         System.out.println("原始的GBK分支");
 
         System.out.println("这是新增GBK内容");
+        System.out.println("这时新增GBK内容");
     }
 }
